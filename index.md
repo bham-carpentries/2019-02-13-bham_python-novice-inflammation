@@ -2,6 +2,7 @@
 layout: lesson
 root: .
 ---
+This is the version taught at the [Software carpentries]() workshop beginning on Monday 11 February 2019.
 
 The best way to learn how to program is to do something useful,
 so this introduction to Python is built around a common scientific task:
